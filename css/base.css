@@ -35,24 +35,26 @@ p {
 	margin: 0 0 1.3em 0;
 }
 
-h1, h2, h3, h4, h5, h6 { 
-	font-family: 'Roboto Slab', serif;
-	font-weight: 100;
-	margin: 0 0 20px 0; 
-	line-height: 1.2;
-	color: #2F2F2F; 
-}
+
 
 h1 {
+	font-family:'bodoni-urw', serif;
+		font-weight: 500;
 	margin-top: 0;
-	font-size: 3.157em;
+	font-size: 3.8125em;
 }
 h2 {
-  	font-size: 2.369em;
+font-family: neue-haas-unica, sans-serif;
+font-weight: 500;
+  	font-size: 3.4375em;
 	line-height: 1.1;
+	margin: 0;
 }
 h3 {
-	font-size: 1.777em;
+	font-family: 'neue-haas-unica', sans-serif;
+	font-weight: 500;
+	line-height: 32px;
+	font-size: 1.5em;
 }
 h4 {
 	font-size: 1.333em;
