@@ -111,6 +111,22 @@ float: left;
 	
 }
 
+.about {
+	background: url(../images/about.jpg) no-repeat;
+	  width: 100%;
+	  display: block;
+	  background-size: cover; 
+	  background-position: center;
+	  float: left;
+	background-color: #E8DCCA;
+
+}
+
+.about-copy{
+		padding: 100px 0;
+		width: 100%;
+}
+
 .headroom {
     transition: -webkit-transform 200ms linear;
     transition: transform 200ms linear;
