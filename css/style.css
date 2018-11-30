@@ -82,7 +82,7 @@ float: left;
 	position: relative;
 }
 .quote-box {
-	width: 717px;
+	width: 100%;
 	margin: 0 auto;
 	color: #ffffff;
 	display: block;
@@ -126,7 +126,7 @@ float: left;
 	width: 100%;
 	float: left;
 	background-color: #E8DCCA;
-	padding: 40px 40px 0 0;
+	padding: 50px 40px 50px 0;
 }
 
 
@@ -134,6 +134,42 @@ float: left;
 .history{
 	width: 100%;
 	background-color: #262626;
+	float: left;
+	padding-top: 50px;
+}
+
+.discography{
+	width: 100%;
+	background-color: #85B591;
+	color: #ffffff;
+	padding-top: 100px;
+	float: left;
+	padding-bottom: 100px;
+}
+
+
+.videos{
+	width: 100%;
+	background-color: #E8DCCA;
+	padding-top: 100px;
+	float:left;
+	padding-bottom: 100px;
+}
+
+.events{
+	padding-top: 100px;
+	float: left;
+	background: url(../images/events.jpg);
+	width: 100%;
+	color: #ffffff;
+	heigth: 1284px; 
+}
+.store{
+	padding-top: 100px;
+	width: 100%;
+	float: left;
+	padding-bottom: 100px;
+	background: #E8DCCA;
 }
 .headroom {
     transition: -webkit-transform 200ms linear;

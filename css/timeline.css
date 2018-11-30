@@ -24,7 +24,7 @@
 
 @media only screen and (min-width: 940px) {
   .cd-timeline {
-    margin-bottom: 3em;
+    margin-bottom: 0px;
   }
   .cd-timeline__container::before {
     left: 10%;
@@ -45,11 +45,11 @@
 }
 
 .cd-timeline__block:first-child {
-  margin-top: 0;
+  margin: 0
 }
 
 .cd-timeline__block:last-child {
-  margin-bottom: 0;
+  margin-bottom: 0px;
 }
 
 @media only screen and (min-width: 940px) {
@@ -85,8 +85,8 @@
 
 @media only screen and (min-width: 940px) {
   .cd-timeline__img {
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     left: 10%;
     margin-left: -30px;
     /* Force Hardware Acceleration */
@@ -136,8 +136,8 @@
 
 .cd-timeline__content {
   position: relative;
-	float: right;
-  margin-left: 100px;
+float: right;
+  margin-left: 90px;
   background: white;
   border-radius: 0.25em;
   padding: 1em;
