@@ -114,7 +114,7 @@ float: left;
 .about {
 	background: url(../images/about.jpg) no-repeat;
 	  width: 100%;
-	  display: block;
+	height: 539px;
 	  background-size: cover; 
 	  background-position: center;
 	  float: left;
@@ -122,11 +122,19 @@ float: left;
 
 }
 
-.about-copy{
-		padding: 100px 0;
-		width: 100%;
+.copy{
+	width: 100%;
+	float: left;
+	background-color: #E8DCCA;
+	padding: 40px 40px 0 0;
 }
 
+
+
+.history{
+	width: 100%;
+	background-color: #262626;
+}
 .headroom {
     transition: -webkit-transform 200ms linear;
     transition: transform 200ms linear;
@@ -140,3 +148,4 @@ float: left;
     -webkit-transform: translateY(-100%);
             transform: translateY(-100%);
 }
+
