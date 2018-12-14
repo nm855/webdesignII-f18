@@ -49,6 +49,7 @@ font-weight: 500;
   	font-size: 3.4375em;
 	line-height: 1.1;
 	margin: 0;
+	
 }
 h3 {
 	font-family: 'neue-haas-unica', sans-serif;
@@ -270,6 +271,7 @@ figcaption {
 ul {
     list-style: square outside none;
     margin: 0 0 18px 0;
+	padding-left: 0;
   
 }
 ol {
