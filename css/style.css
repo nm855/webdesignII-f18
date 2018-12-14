@@ -93,7 +93,7 @@ z-index: -100;
 -moz-transform: translateX(-50%) translateY(-50%);
 -webkit-transform: translateX(-50%) translateY(-40%);
 	transform: translateX(-50%) translateY(-40%);
-background-size: cover;
+	object-fit: cover;
 }
 
 
@@ -171,6 +171,7 @@ float: left;
 	  background-size: cover; 
 	  background-position: center;
 	  float: left;
+
 	background-color: #E8DCCA;
 
 }
